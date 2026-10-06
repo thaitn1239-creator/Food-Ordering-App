@@ -157,3 +157,25 @@ Màn hình Thành công (Success State): Biểu tượng dấu check đỏ lớn
 * Cá nhân hóa cao: Tính năng chọn độ cay trực tiếp trên màn hình chi tiết giải quyết trọn vẹn nỗi đau khi đặt đồ ăn qua mạng (khách hàng không phải ghi chú lủng củng bằng chữ).
 
 * Giao diện đồng bộ: Thiết kế hiện đại, mượt mà, đồng nhất giữa các màn hình, rất phù hợp để phát triển thành một đồ án thực tế hoàn chỉnh môn Lập trình di động hoặc Thiết kế UI/UX.
+
+# Định  hướng phát triển trong tương lai
+
+* Đặt và tùy chọn nhân bánh mì.
+
+* Hẹn giờ và lấy hàng qua mã QR.
+
+* Đặt gói ăn sáng định kỳ và Đặt nhóm văn phòng.
+
+* Màn hình Bếp  hiển thị đơn hàng theo thời gian thực.
+
+* Quản lý nguyên liệu và tự động trừ tồn kho.
+
+* Quản lý menu, giá bán và chương trình ưu đãi.
+
+* Thanh toán trực tuyến.
+
+* Báo cáo doanh thu và phân tích khung giờ cao điểm.
+
+* Đánh giá và phản hồi chất lượng món ăn.
+
+* Gợi ý món ăn thông minh bằng AI.
