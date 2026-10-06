@@ -16,3 +16,12 @@ LÊ PHAN QUANG VINH 080206007771
 TRẦN NHẬT THÁI 040206001239
 
 NGUYỄN ĐỨC TRUNG 054206006852
+
+# Chọn đề tài và bối cảnh hình thành ý tưởng
+
+Tên đề tài
+
+Ứng dụng Đặt món và Quản lý Bánh mì trực tuyến
+
+# Lý do chọn đề tài
+
