@@ -120,3 +120,33 @@ Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ 
 * Bảng màu chủ đạo (Color Palette): Sử dụng tông màu đỏ tươi (#FF2D34 hoặc tương đương) làm điểm nhấn kết hợp với sắc đen/xám tối lịch lãm và nền trắng sáng. Phong cách này kích thích vị giác, tạo cảm giác năng động, hiện đại và rất đặc trưng của ngành F&B (Food & Beverage).
 
 * Bố cục (Layout): Thiết kế tối giản (Minimalist), các khối thông tin được phân cấp rõ ràng (Hierarchy) giúp người dùng không bị rối mắt, tập trung tối đa vào hình ảnh món ăn trực quan và nút kêu gọi hành động (CTA).
+
+# 2. Phân tích các màn hình chức năng chính trong ứng dụng
+## a. Màn hình Chào mừng & Trang chủ (Splash Screen & Home Screen)
+* Màn hình khởi động:
+
+- Trưng bày logo thương hiệu GreatTaste kèm hình ảnh một chiếc bánh mì đặc biệt đầy đặn, sắc nét, tạo ấn tượng thèm ăn ngay từ cái nhìn đầu tiên.
+
+* Màn hình Trang chủ:
+
+-  Banner khuyến mãi: Nổi bật với chương trình "Khuyến mãi mùa tựu trường", hỗ trợ điều hướng dạng chấm tròn (pagination dots) để lướt xem các chương trình ưu đãi khác.
+
+-  Phân mục sản phẩm khoa học: Chia rõ thành hai nhóm chính là Bestsellers (Các món bán chạy: Bánh Mì Đặc Biệt, Bánh Mì Gà Nướng, Bánh Mì Chả Cá) và Recommended (Gợi ý thêm: Bánh Mì Chay Đậu Hũ kèm số sao đánh giá 4.8 và số lượng review).
+
+- Thao tác nhanh: Mỗi thẻ sản phẩm đều có nút tắt dấu cộng (+) giúp thêm nhanh vào giỏ hàng mà không cần bấm vào trang chi tiết, cùng nút Browse Menu cố định dưới cùng để khám phá toàn bộ thực đơn.
+
+## b. Màn hình Chi tiết sản phẩm & Tùy chỉnh (Product Detail & Customization)
+-  Hình ảnh & Mô tả: Ảnh chụp cận cảnh (close-up) chất lượng cao làm nổi bật nguyên liệu tươi ngon; phần mô tả ngắn gọn thành phần bên trong (pate, chả, thịt, rau thơm).
+
+-  Thanh trượt tùy chỉnh vị giác (Spicy Slider): Cho phép người dùng kéo điều chỉnh độ cay từ Mild (Ít cay) đến Hot (Cay nhiều) – một điểm cộng lớn cho trải nghiệm cá nhân hóa món ăn.
+
+-  Bộ chọn số lượng (Portion Quantity): Tăng/giảm số lượng trực quan bằng nút + và -.
+
+-  Nút hành động kép: Hiển thị rõ giá tiền (ví dụ: 65,000đ) kết hợp nút bấm ORDER NOW tách biệt, rõ ràng.
+
+## c. Màn hình Thanh toán & Xác nhận đơn hàng (Payment & Success Screen)
+Tóm tắt đơn hàng (Order Summary): Hiển thị tổng tiền cần thanh toán chính xác (ví dụ: 45,000đ) và ước tính thời gian giao hàng (Estimated delivery time: 15 - 30mins).
+
+Phương thức thanh toán linh hoạt: Hỗ trợ lựa chọn qua thẻ tín dụng/ghi nợ (Credit Card, Debit Card) với thông tin mã hóa bảo mật cuối thẻ (ví dụ: 5105 **** **** 0505), kèm tùy chọn lưu thẻ cho lần thanh toán sau (Save card details for future payments).
+
+Màn hình Thành công (Success State): Biểu tượng dấu check đỏ lớn đi kèm thông báo "Your payment was successful.", giúp người dùng an tâm rằng giao dịch đã hoàn tất và có nút Go Back để quay về trang chủ.
