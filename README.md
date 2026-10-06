@@ -39,9 +39,6 @@ Nhóm lựa chọn đề tài này với mong muốn số hóa một nét văn h
 
 ## 1.Trải nghiệm người dùng 
 
-<img width="562" height="578" alt="image" src="https://github.com/user-attachments/assets/f93c0f18-0928-48f1-b537-c9df3edd819e" />
-
-
 Ứng dụng sẽ được chia làm 2 giao diện riêng biệt
 
 * Khách hàng (Customer App): Trực quan, sinh động, thao tác cực nhanh
