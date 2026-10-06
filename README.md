@@ -34,3 +34,7 @@ Từ thực tế đó, nhóm em nảy ra ý tưởng xây dựng một nền t�
 Nhóm lựa chọn đề tài này với mong muốn số hóa một nét văn hóa ẩm thực quen thuộc, mang lại sự tiện lợi tối đa cho khách hàng (tiết kiệm thời gian chờ đợi, tùy biến món ăn linh hoạt) đồng thời giúp các tiệm bánh tối ưu hóa quy trình vận hành và quản lý đơn hàng hiệu quả hơn.
 
 Đây cũng là một đề tài phù hợp để nhóm vận dụng những kiến thức đã học trong môn học, từ thiết kế giao diện tối ưu trải nghiệm người dùng (UX/UI), xử lý giỏ hàng, đồng bộ dữ liệu thời gian thực cho đến xây dựng các chức năng phân quyền (Khách hàng - Cửa hàng - Shipper).
+
+## Lên Ý Tưởng
+
+# 1.Trải nghiệm người dùng 
