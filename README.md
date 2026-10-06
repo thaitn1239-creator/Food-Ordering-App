@@ -150,3 +150,10 @@ Tóm tắt đơn hàng (Order Summary): Hiển thị tổng tiền cần thanh t
 Phương thức thanh toán linh hoạt: Hỗ trợ lựa chọn qua thẻ tín dụng/ghi nợ (Credit Card, Debit Card) với thông tin mã hóa bảo mật cuối thẻ (ví dụ: 5105 **** **** 0505), kèm tùy chọn lưu thẻ cho lần thanh toán sau (Save card details for future payments).
 
 Màn hình Thành công (Success State): Biểu tượng dấu check đỏ lớn đi kèm thông báo "Your payment was successful.", giúp người dùng an tâm rằng giao dịch đã hoàn tất và có nút Go Back để quay về trang chủ.
+
+# 3. Đánh giá ưu điểm của hệ thống
+* Tối ưu luồng người dùng (User Flow): Từ lúc mở app đến khi thanh toán thành công chỉ qua vài bước ngắn gọn, giảm thiểu tỷ lệ rớt đơn (drop-off rate).
+
+* Cá nhân hóa cao: Tính năng chọn độ cay trực tiếp trên màn hình chi tiết giải quyết trọn vẹn nỗi đau khi đặt đồ ăn qua mạng (khách hàng không phải ghi chú lủng củng bằng chữ).
+
+* Giao diện đồng bộ: Thiết kế hiện đại, mượt mà, đồng nhất giữa các màn hình, rất phù hợp để phát triển thành một đồ án thực tế hoàn chỉnh môn Lập trình di động hoặc Thiết kế UI/UX.
