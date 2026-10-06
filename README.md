@@ -44,3 +44,56 @@ Nhóm lựa chọn đề tài này với mong muốn số hóa một nét văn h
 * Khách hàng (Customer App): Trực quan, sinh động, thao tác cực nhanh
 
 * Quản lý & Bếp (Management / Merchant App): Đơn giản, rõ ràng, hiển thị đơn hàng dạng thẻ/danh sách trực quan để thao tác làm bánh không bị nhầm lẫn.
+
+## 2.Tính năng chính của Khách Hàng
+
+Bánh mì là món ăn nhanh, đặc biệt đông khách vào buổi sáng. Điểm mấu chốt của app là nhanh – chính xác – đúng ý
+
+* Tùy biến ổ bánh mì
+
+  - Chọn loại vỏ bánh (Giòn, giòn rụm, nguyên cám...).
+
+  - Chọn nhân chính (Pâté, thịt nguội, xíu mại, trứng ốp la, gà xé...).
+
+  - Chọn gia vị & rau (Đồ chua, dưa leo, ngò, sốt bơ, sốt ớt, mức độ cay).
+
+  - Ghi chú đặc biệt (Ví dụ: "Nhiều pate, không hành, vỏ nướng giòn").
+ 
+* Chế độ Hẹn Giờ Lấy
+
+  - Khách đặt từ nhà/trên đường đi làm, chọn khung giờ .
+
+  - Khi đến quán chỉ cần quét mã QR để nhận bánh ngay mà không cần xếp hàng.
+
+* Gói Ăn Sáng Định Kỳ 
+
+  - Khách đặt sẵn nguyên tuần (Thứ 2 đến Thứ 6). Tự động gửi thông báo xác nhận món mỗi tối hôm trước.
+
+* Đặt Nhóm 
+
+  - Một người tạo link gom đơn,  tự chọn vị bánh mì của mình, hệ thống tự chia tiền và các gói sale khi đặt nhóm .
+
+## 3. Tính năng chính của Quản Lý & Bếp 
+
+Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ cao điểm.
+
+* Màn Hình Bếp (Kitchen Display System - KDS)
+
+  - Đơn hàng nhảy về máy tính bảng tại gian bếp theo thời gian thực.
+
+  - Hiển thị rõ ràng các ghi chú đặc biệt (ví dụ: KHÔNG HÀNH, NHIỀU CAY) bằng màu sắc cảnh báo để thợ làm bánh không bị sót.
+
+* Quản Lý Nguyên Liệu & Tồn Kho Auto-Deduct:
+
+  - Mỗi khi bán 1 ổ bánh mì thịt, hệ thống tự động trừ: 1 vỏ bánh, 30g pate, 50g thịt, 10g dưa góp...
+
+  - Cảnh báo khi nguyên liệu sắp hết.
+
+* Báo Cáo & Phân Tích Doanh Thu:
+
+  - Thống kê món bán chạy nhất theo khung giờ.
+
+  - Dự báo lượng nguyên liệu cần chuẩn bị cho ngày hôm sau dựa trên dữ liệu lịch sử.
+ 
+## 4. Mô hình app Online Bread Ordering and Management
+
