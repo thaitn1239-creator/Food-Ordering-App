@@ -35,6 +35,12 @@ Nhóm lựa chọn đề tài này với mong muốn số hóa một nét văn h
 
 Đây cũng là một đề tài phù hợp để nhóm vận dụng những kiến thức đã học trong môn học, từ thiết kế giao diện tối ưu trải nghiệm người dùng (UX/UI), xử lý giỏ hàng, đồng bộ dữ liệu thời gian thực cho đến xây dựng các chức năng phân quyền (Khách hàng - Cửa hàng - Shipper).
 
-## Lên Ý Tưởng
+# Lên Ý Tưởng
 
-# 1.Trải nghiệm người dùng 
+## 1.Trải nghiệm người dùng 
+
+Ứng dụng sẽ được chia làm 2 giao diện riêng biệt
+
+* Khách hàng (Customer App): Trực quan, sinh động, thao tác cực nhanh
+
+* Quản lý & Bếp (Management / Merchant App): Đơn giản, rõ ràng, hiển thị đơn hàng dạng thẻ/danh sách trực quan để thao tác làm bánh không bị nhầm lẫn.
