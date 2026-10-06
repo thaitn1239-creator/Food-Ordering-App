@@ -104,3 +104,11 @@ Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ 
 <img width="559" height="567" alt="image" src="https://github.com/user-attachments/assets/0393c5c9-f9f8-4488-aeab-0456e676bf80" />
 
 <img width="562" height="578" alt="image" src="https://github.com/user-attachments/assets/d11a99f8-070e-4e7a-adb6-5f00fa095bf9" />
+
+## 5. Điểm đặc biệt để App của bạn vượt trội hơn các App giao đồ ăn chung (Grab/Foodpanda)
+
+* Tập trung sâu vào Trải nghiệm Bánh mì: Cho phép tùy biến thành phần chi tiết.
+
+* Tối ưu hóa Pick-up: Giải quyết bài toán xếp hàng chờ đợi mua đồ ăn sáng của dân văn phòng/học sinh.
+
+* Chi phí rẻ hơn cho Chủ quán: Không phải chịu chiết khấu hoa hồng cao (20-30%) như các sàn giao đồ ăn lớn.
