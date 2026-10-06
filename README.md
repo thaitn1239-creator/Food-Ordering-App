@@ -112,3 +112,11 @@ Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ 
 * Tối ưu hóa Pick-up: Giải quyết bài toán xếp hàng chờ đợi mua đồ ăn sáng của dân văn phòng/học sinh.
 
 * Chi phí rẻ hơn cho Chủ quán: Không phải chịu chiết khấu hoa hồng cao (20-30%) như các sàn giao đồ ăn lớn.
+
+# BÁO CÁO PHÂN TÍCH THIẾT KẾ GIAO DIỆN & TÍNH NĂNG ỨNG DỤNG
+
+## 1. Tổng quan về nhận diện thương hiệu và phong cách thiết kế (UI/UX)
+
+* Bảng màu chủ đạo (Color Palette): Sử dụng tông màu đỏ tươi (#FF2D34 hoặc tương đương) làm điểm nhấn kết hợp với sắc đen/xám tối lịch lãm và nền trắng sáng. Phong cách này kích thích vị giác, tạo cảm giác năng động, hiện đại và rất đặc trưng của ngành F&B (Food & Beverage).
+
+* Bố cục (Layout): Thiết kế tối giản (Minimalist), các khối thông tin được phân cấp rõ ràng (Hierarchy) giúp người dùng không bị rối mắt, tập trung tối đa vào hình ảnh món ăn trực quan và nút kêu gọi hành động (CTA).
