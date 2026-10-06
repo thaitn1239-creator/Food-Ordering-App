@@ -97,3 +97,10 @@ Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ 
  
 ## 4. Mô hình app Online Bread Ordering and Management
 
+<img width="594" height="569" alt="image" src="https://github.com/user-attachments/assets/633a0c83-16d9-4a47-b46c-a82aa5909e57" />
+
+<img width="563" height="571" alt="image" src="https://github.com/user-attachments/assets/7ad2c559-6cef-46d7-8a3e-6d2b56f38262" />
+
+<img width="559" height="567" alt="image" src="https://github.com/user-attachments/assets/0393c5c9-f9f8-4488-aeab-0456e676bf80" />
+
+<img width="562" height="578" alt="image" src="https://github.com/user-attachments/assets/d11a99f8-070e-4e7a-adb6-5f00fa095bf9" />
