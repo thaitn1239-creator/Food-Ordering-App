@@ -179,3 +179,11 @@ Màn hình Thành công (Success State): Biểu tượng dấu check đỏ lớn
 * Đánh giá và phản hồi chất lượng món ăn.
 
 * Gợi ý món ăn thông minh bằng AI.
+
+# Kết Luận 
+
+Qua quá trình tìm hiểu ban đầu, nhóm nhận thấy ứng dụng OBOMA có thể giải quyết một nhu cầu khá thực tế của người dùng là đặt mua món ăn nhanh (takeaway) một cách thuận tiện, tùy chỉnh linh hoạt và tiết kiệm thời gian chờ đợi ở các cửa hàng.   
+
+Điểm mà nhóm muốn hướng tới không chỉ là tạo ra một ứng dụng để "mua bán đồ ăn", mà là xây dựng một nền tảng trong đó người mua có thể dễ dàng tìm kiếm, tùy chỉnh món ăn (độ cay, số lượng) theo sở thích, phía cửa hàng có thể quản lý đơn hàng hiệu quả qua hệ thống số hóa và cả hai bên đều có trải nghiệm giao dịch tối ưu.   
+
+Tuy nhiên, nhóm cũng nhận thấy hệ thống vẫn còn nhiều vấn đề cần nghiên cứu thêm, đặc biệt là xử lý đồng bộ thời gian thực (real-time), tối ưu hóa luồng giao vận (shipper), quản lý kho nguyên liệu, bảo mật thanh toán trực tuyến và khả năng mở rộng quy mô cho các tiệm bánh mì truyền thống.
