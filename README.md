@@ -113,6 +113,65 @@ Hệ thống quản lý giúp quán vận hành trơn tru ngay cả trong giờ 
 
 * Chi phí rẻ hơn cho Chủ quán: Không phải chịu chiết khấu hoa hồng cao (20-30%) như các sàn giao đồ ăn lớn.
 
+# NGHIÊN CỨU VÀ PHÂN TÍCH CHUYÊN SÂU (RESEARCH & ANALYSIS)
+
+## 1. Phân Tích Luồng Người Dùng & Giao Diện Thanh Toán (Checkout & Payment Flow Analysis)
+
+Giỏ hàng -> Chọn chi nhánh -> Thanh toán -> Xác nhận đơn hàng -> Theo dõi đơn hàng 
+
++------------------+     +-------------------+     +--------------------+
+|  1. GIỎ HÀNG     | --> | 2. CHỌN CHI NHÁNH | --> | 3. THANH TOÁN      |
+|  - Danh sách món |     |    GẦN NHẤT       |     |  - Tiền mặt / Thẻ  |
+|  - Tính tạm tính |     |  - Tối ưu phí Ship|     |  - Ví Payoo / Mã GG|
++------------------+     +-------------------+     +--------------------+
+                                                            |
+                                                            v
++------------------+                               +--------------------+
+| 5. THEO DÕI ĐƠN  | <---------------------------- | 4. XÁC NHẬN ĐƠN    |
+|  - Bản đồ GPS    |                               |  - Rà soát thông tin|
+|  - Tài xế & KDS  |                               |  - Ghi chú món ăn  |
++------------------+                               +--------------------+
+
+## 2. Phân Tích Vai Trò Trải Nghiệm
+
+Màn hình Giỏ Hàng:
+
+* Vai trò: Là điểm bắt đầu của quá trình mua hàng.
+
+* Đặc điểm UX/UI: Bố cục dạng thẻ (Card) giúp đóng gói thông tin món ăn trực quan. Người dùng có thể dễ dàng điều chỉnh số lượng sản phẩm, chọn thêm món mới hoặc chuyển sang bước chọn cửa hàng ngay trên cùng một giao diện.
+
+Màn hình Chọn Chi Nhánh:
+
+* Vai trò: Định vị và lựa chọn địa điểm phục vụ tối ưu.
+
+* Đặc điểm UX/UI: Cung cấp thông tin khoảng cách và trạng thái hoạt động của từng cửa hàng. Việc chọn chi nhánh gần nhất giúp đảm bảo chất lượng bánh mì luôn nóng giòn và tối ưu hóa thời gian vận chuyển.
+
+Màn hình Thanh Toán:
+
+* Vai trò: Cấu hình phương thức giao dịch tài chính và ưu đãi.
+
+* Đặc điểm UX/UI: Tích hợp đa dạng hình thức thanh toán (Tiền mặt, Thẻ ngân hàng, Ví điện tử). Giao diện hiển thị rõ ràng trạng thái phương thức đang chọn cùng khu vực nhập mã khuyến mãi.
+
+Màn hình Xác Nhận Đơn Hàng:
+
+* Vai trò: Điểm rà soát cuối cùng (Review Point) trước khi phát sinh giao dịch.
+
+* Đặc điểm UX/UI: Gom nhóm toàn bộ thông tin quan trọng bao gồm danh sách món, chi nhánh tiếp nhận, hình thức thanh toán và ghi chú cá nhân dành cho bếp. Màn hình này giúp hạn chế tối đa các sai sót không đáng có trong quá trình đặt hàng.
+
+Màn hình Theo Dõi Đơn Hàng:
+
+* Vai trò: Cung cấp thông tin minh bạch sau khi đặt hàng thành công.
+
+* Đặc điểm UX/UI: Sử dụng bản đồ di chuyển trực quan, thanh tiến trình cập nhật từng trạng thái chế biến/giao hàng và thông tin liên lạc với tài xế. Màn hình này giải tỏa tâm lý chờ đợi của khách hàng và đồng bộ dữ liệu thời gian thực với hệ thống Bếp (KDS).
+
+## 3. Nghiên Cứu Đề Xuất Cải Tiến UI/UX Trong Tương Lai
+
+* Tự động gợi ý Chi nhánh gần nhất (Auto-Locationing): Sử dụng vị trí GPS của người dùng để ưu tiên chọn ngay chi nhánh có khoảng cách ngắn nhất, giúp tối ưu chi phí vận chuyển mà không cần chọn thủ công.
+
+* Hiển thị trực quan số tiền tiết kiệm: Khi áp dụng mã giảm giá thành công, hiển thị số tiền được giảm bằng màu xanh nổi bật để kích thích tâm lý hoàn tất giao dịch của khách hàng.
+
+* Đồng bộ mã QR Pick-up tại Màn hình Theo dõi: Bổ sung mã QR code hiển thị ngay trên màn hình Theo Dõi Đơn Hàng dành cho đơn hàng chọn hình thức Pick-up (Đến lấy trực tiếp) để nhân viên quét nhanh. 
+
 # BÁO CÁO PHÂN TÍCH THIẾT KẾ GIAO DIỆN & TÍNH NĂNG ỨNG DỤNG
 
 ## 1. Tổng quan về nhận diện thương hiệu và phong cách thiết kế (UI/UX)
